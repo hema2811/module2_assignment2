@@ -1,6 +1,6 @@
 # USING LOGS TO HELP YOU  TRACK DOWN AN ISSUE IN WINDOWS
 
-1. Updating the software that is out-of-date.
+1. Updating the software that is out-of-date , download VLC new version and choose update.
 
 2. Finding the large files 
 
